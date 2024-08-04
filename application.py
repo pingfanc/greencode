@@ -12,7 +12,7 @@ import base64
 import os
 from dotenv import load_dotenvload_dotenv()
 
-load_dotenv()
+load_dotenv(find_dotenv())
 
 # Databricks URL and Token
 DATABRICKS_URL = os.getenv('DATABRICKS_URL')
