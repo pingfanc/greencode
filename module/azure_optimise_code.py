@@ -4,7 +4,7 @@ import ast
 import os
 from dotenv import load_dotenvload_dotenv() 
 
-load_dotenv()
+load_dotenv(find_dotenv())
 
 client = AzureOpenAI(
         api_key = os.getenv('API_KEY'),  
