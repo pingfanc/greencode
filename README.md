@@ -14,4 +14,5 @@ This project includes the following key components:
 The application provides insights into the carbon emissions caused by the execution of the code.
 
 ## Application Architecture
-![diagram drawio-DESKTOP-EMSRRHE](https://github.com/user-attachments/assets/5f306779-320b-46b3-9766-8134d27544a5)
+![diagram flow](https://github.com/user-attachments/assets/415ee6cb-2763-4e24-9890-c2133fdb4a7f)
+
